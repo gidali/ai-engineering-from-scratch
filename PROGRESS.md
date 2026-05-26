@@ -27,8 +27,8 @@
 | 0 | 01-dev-environment | done | |
 | 0 | 02-git-and-collaboration | done | |
 | 0 | 03-gpu-setup-and-cloud | deferred | |
-| 0 | 04-apis-and-keys | | |
-| 0 | 05-jupyter-notebooks | | |
+| 0 | 04-apis-and-keys | done | |
+| 0 | 05-jupyter-notebooks | done | |
 | 0 | 06-python-environments | | |
 | 0 | 07-docker-for-ai | | |
 | 0 | 08-editor-setup | | |
