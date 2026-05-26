@@ -15,6 +15,7 @@
 | `in progress` | Currently working through this lesson |
 | `need to improve` | Completed but weak — revisit theory |
 | `practise needed` | Theory understood, need more coding practice |
+| `deferred` | Skipped intentionally, will return later |
 | *(blank)* | Not started |
 
 ---
@@ -25,7 +26,7 @@
 |-------|--------|--------|----------|
 | 0 | 01-dev-environment | done | |
 | 0 | 02-git-and-collaboration | done | |
-| 0 | 03-gpu-setup-and-cloud | | |
+| 0 | 03-gpu-setup-and-cloud | deferred | |
 | 0 | 04-apis-and-keys | | |
 | 0 | 05-jupyter-notebooks | | |
 | 0 | 06-python-environments | | |
