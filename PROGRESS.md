@@ -23,8 +23,8 @@
 
 | Phase | Lesson | Status | Comments |
 |-------|--------|--------|----------|
-| 0 | 01-dev-environment | | |
-| 0 | 02-git-and-collaboration | | |
+| 0 | 01-dev-environment | done | |
+| 0 | 02-git-and-collaboration | done | |
 | 0 | 03-gpu-setup-and-cloud | | |
 | 0 | 04-apis-and-keys | | |
 | 0 | 05-jupyter-notebooks | | |
