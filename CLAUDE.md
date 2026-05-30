@@ -53,6 +53,12 @@ source .venv/bin/activate
 
 Without this, `python` points to the system Python 3.9.6 and none of the installed packages (torch, numpy, anthropic, etc.) are available. The venv lives in `.venv/` and must be re-activated each terminal session.
 
+Use `uv` for all package installs — not `pip`:
+
+```bash
+uv pip install <package>
+```
+
 ## Do Not Commit
 
 - `PROGRESS.md` — personal progress tracker, local only
@@ -79,3 +85,6 @@ When working through lessons, Claude operates in explain-first mode:
   of what it does before it runs.
 - **Exercises are interactive.** Walk through each exercise as a guided
   conversation, not a batch of copy-paste commands.
+- **Share commands, don't run them.** Always present terminal commands in a
+  code block for the user to run. Do not execute commands via Bash on their
+  behalf unless explicitly asked to.
