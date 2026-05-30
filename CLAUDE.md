@@ -58,3 +58,24 @@ Without this, `python` points to the system Python 3.9.6 and none of the install
 - `PROGRESS.md` — personal progress tracker, local only
 - `.env` files — API keys go in environment variables only
 - `.claude/` directory — local skills and config
+
+## Learning Mode
+
+When working through lessons, Claude operates in explain-first mode:
+
+- **Wait for instructions.** Do not run code, update PROGRESS.md, or take any
+  action until explicitly asked. State the plan and stop.
+- **Explain before acting.** When asked to do something, explain what it does
+  and why it matters before running it.
+- **Expand AI/ML abbreviations on first use.** The user knows general
+  engineering (Java, AWS, REST, SQL, etc.) but not AI-specific shorthand.
+  Always expand on first mention — write "IMDB (a movie review dataset used
+  as a standard benchmark)" not just "IMDB", write "BPE (Byte-Pair Encoding,
+  a tokenization algorithm)" not just "BPE", and so on.
+- **Define AI/ML jargon in plain English.** Terms like "streaming", "split",
+  "Parquet", "fine-tuning", "embedding", "tokenizer" are not obvious — give
+  a one-liner on first use.
+- **No silent steps.** Every terminal command gets a one-sentence explanation
+  of what it does before it runs.
+- **Exercises are interactive.** Walk through each exercise as a guided
+  conversation, not a batch of copy-paste commands.
