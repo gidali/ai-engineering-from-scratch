@@ -29,10 +29,10 @@
 | 0 | 03-gpu-setup-and-cloud | deferred | |
 | 0 | 04-apis-and-keys | done | |
 | 0 | 05-jupyter-notebooks | done | |
-| 0 | 06-python-environments | | |
-| 0 | 07-docker-for-ai | | |
-| 0 | 08-editor-setup | | |
-| 0 | 09-data-management | | |
+| 0 | 06-python-environments | done | |
+| 0 | 07-docker-for-ai | done | |
+| 0 | 08-editor-setup | done | |
+| 0 | 09-data-management | done | |
 | 0 | 10-terminal-and-shell | | |
 | 0 | 11-linux-for-ai | | |
 | 0 | 12-debugging-and-profiling | | |
