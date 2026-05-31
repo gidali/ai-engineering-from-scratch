@@ -33,9 +33,9 @@
 | 0 | 07-docker-for-ai | done | |
 | 0 | 08-editor-setup | done | |
 | 0 | 09-data-management | done | |
-| 0 | 10-terminal-and-shell | | |
-| 0 | 11-linux-for-ai | | |
-| 0 | 12-debugging-and-profiling | | |
+| 0 | 10-terminal-and-shell | done | |
+| 0 | 11-linux-for-ai | done | |
+| 0 | 12-debugging-and-profiling | deferred | |
 
 ## Phase 1 — Math Foundations
 
