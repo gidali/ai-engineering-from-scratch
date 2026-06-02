@@ -41,9 +41,9 @@
 
 | Phase | Lesson | Status | Comments |
 |-------|--------|--------|----------|
-| 1 | 01-linear-algebra-intuition | | |
-| 1 | 02-vectors-matrices-operations | | |
-| 1 | 03-matrix-transformations | | |
+| 1 | 01-linear-algebra-intuition | done | |
+| 1 | 02-vectors-matrices-operations | done | |
+| 1 | 03-matrix-transformations | done | |
 | 1 | 04-calculus-for-ml | | |
 | 1 | 05-chain-rule-and-autodiff | | |
 | 1 | 06-probability-and-distributions | | |
